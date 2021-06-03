@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Irelands complaint against Sir George Ratcliffe Knight, now prisoner in the Gate-house at Westminster. Delivered in Parliament there by Captaine Audley Mervin. VVherein is declared the grievances of that kingdome, occasioned by him, and the late Earle of Strafford. The principall cause, why these late troubles are fallen upon them. Whereunto is annexed the depositions and articles exhibited against him in Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87199</idno><idno type="EEBO-CITATION">99871270</idno>
+  <idno type="VID">157092</idno>
+  <idno type="EEBO-PROQUEST">2248517486</idno>
+  
+            <idno type="STC">Wing I1018A</idno>
+            <idno type="STC">Thomason E176_8</idno>
+            <idno type="STC">ESTC R212679</idno>
+            <idno type="PROQUEST">99871270</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871270e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157092)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Irelands complaint against Sir George Ratcliffe Knight, now prisoner in the Gate-house at Westminster. Delivered in Parliament there by Captaine Audley Mervin. VVherein is declared the grievances of that kingdome, occasioned by him, and the late Earle of Strafford. The principall cause, why these late troubles are fallen upon them. Whereunto is annexed the depositions and articles exhibited against him in Parliament.</title>
+                  <author>Ireland. Parliament.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Victoria and Albert Museum, Forster collection (Early English books, 1641-1700).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term type="personal_name">Radcliffe, George, --  Sir, 1593-1657 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157092:1"/>
+            <p>IRELANDS Complaint Against Sir GEORGE RATCLIFFE Knight now Prisoner in the <hi>Gate-house</hi> at <hi>Westminster.</hi>
+            </p>
+            <p>Delivered in PARLIAMENT there by Cap<g ref="char:EOLhyphen"/>taine <hi>AVDLEY MERVIN.</hi>
+            </p>
+            <p>VVherein is declared the Grievances of that Kingdome, occasioned by him, and the late Earle of <hi>Strafford.</hi>
+            </p>
+            <p>The Principall cause, why these late troubles are fal<g ref="char:EOLhyphen"/>len upon them.</p>
+            <p>Whereunto is annexed the Depositions and Articles exhibited against him in Parliament.</p>
+            <p>LONDON, Printed for JOHN THOMAS. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157092:2"/>
+            <pb facs="tcp:157092:2"/>
+            <head>
+               <hi>Irelands</hi> Grievances, and the complaint of that Kingdome against Sir <hi>George Ratcliffe</hi> Knight, and now Prisoner in the <hi>Gate house,</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an antient saying, that every man knowes best, where his owne shoe wrings him, <hi>England</hi> knowes best its own Grievances, but is scarce sensible of its neighbours, wherefore it is my intent at this time, with as much brevity as may be, to make <hi>England</hi> sensible of the sufferings and Grievances which of late <hi>Ireland</hi> hath been pertakers of, groaning under the Ty<g ref="char:EOLhyphen"/>ranny and oppression of the two great Jncendiaries of this our Kingdome. <hi>Thomas</hi> late Earle of <hi>Strafford</hi> the principall Author, who lately suffered for hisS deserts, and Sir <hi>George Ratcliffe,</hi> now at this time Prisoner in the <hi>Gate-house</hi> at <hi>West<g ref="char:EOLhyphen"/>min.</hi> the principall Jnstrument, that acted his trayterous &amp; wicked designs within these 3. Kingdomes, consider gentle Reader, <hi>Irelands</hi> miserable cryes and complaints against the wicked practises and insulting power of this man, in prose cuting the natives and inhabitants even to blood.</p>
+            <p>Consider what affinity and Relation he had to the late Earle of <hi>Strafford</hi> in his Combinations, who was the Exe<g ref="char:EOLhyphen"/>cutioner of all these wicked and Traterous practises, the other contrived, such was their confederacy in Tyranny and oppression, that the lives, estates, and liberties of his Majesties subjects in this Kingdome was violated and rui<g ref="char:EOLhyphen"/>nated, these were those wicked <hi>Hamans,</hi> that would make havocke of all poore <hi>Mordecays,</hi> to advance their owne greatnesse, if God of his goodnesse had not prevented them, by a happy <hi>Parliament.</hi> But I shall <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sparke any <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:157092:3"/>one, in regard he hath suffered the Law for it, but I returne to him who is little inferior in wickednesse, and who ex<g ref="char:EOLhyphen"/>pects his tryall for it every moment, Sir <hi>George Ratcliffe,</hi> the unhappy subject of my discourse, he intending the de<g ref="char:EOLhyphen"/>struction of the Realme of <hi>Ireland,</hi> trayterously conspired to subvert the fundamentall Lawes and Government of the Kingdome, and in pursuance thereof he hath trayterously continued and exercised an Arbitrary and Tyrannicall Go<g ref="char:EOLhyphen"/>vernment against Law, throughout the Kingdome, he also assumed to himselfe Regall power over the goods, persons, Lands &amp; liberties of his Majesties Subjects of this Realme, and likewise maliciously, perfidiously, &amp; trayterously pub<g ref="char:EOLhyphen"/>lished false opinions, unjust judgements and sentences, in extrajudiciall manner against Law, and practised unlawfull Acts, whereby as well divers mutinies, seditions, and rebel<g ref="char:EOLhyphen"/>lions, have been raised, as also many thousands of his Ma<g ref="char:EOLhyphen"/>jesties Liege people have been ruined in their goods, lands, liberties, and lives, and many of them being of good quali<g ref="char:EOLhyphen"/>ty and reputation, have been utterly defamed by Pillory, Mutilation of members, and other infamous punishments, by means whereof his Majesty and the Kingdome, have bin deprived of their service, injuries, &amp; other publick em<g ref="char:EOLhyphen"/>ployments, the generall Trade and Traffique of this Island, for the most part destroyed, and his Majesty highly dam<g ref="char:EOLhyphen"/>nified in his Customes and other Revenues.</p>
+            <p>And his policy to escape from being found out in these his Trayterous enterprizes, did labour by all the meanes he could to stop Parliamentary proceedings, and to sub<g ref="char:EOLhyphen"/>vert the rights thereof.</p>
+            <p>This Sir <hi>George Ratcliffe</hi> also conspired with the late Earle of <hi>Strafford,</hi> to bring in an Army from <hi>Jreland,</hi> to subdue the Subjects of <hi>England,</hi> which Trayterous fact, should all sur<g ref="char:EOLhyphen"/>viving Chronologies of times be searcht, is not to be par<g ref="char:EOLhyphen"/>rallel'd in any age, had that wicked intent of theirs taken
+<pb facs="tcp:157092:3"/>effect, which makes me view the Records amongst the in<g ref="char:EOLhyphen"/>fernall Spirits, to find it matcht, there I might extenuate their facts, where first he appeares like the false spirit, sent into the mouth of the Prophets of <hi>Achab,</hi> to speake delu<g ref="char:EOLhyphen"/>sions to subvert the Host of God.</p>
+            <p>Nor must I stay here to accuse him, but goe further ac<g ref="char:EOLhyphen"/>cording to the Articles which are exhibited against him.</p>
+            <p>He joyned likewise with the late Earle, to take 80000 pounds out of the Exchequer in <hi>Ireland,</hi> and bought To<g ref="char:EOLhyphen"/>bacco therewith, and converted the profit to their owne uses.</p>
+            <p>He alsoo cuntenanced Papists. and yeelded to the buil<g ref="char:EOLhyphen"/>ding of Monasteryes, to alienate the affections of the <hi>Irish,</hi> from the subjection of <hi>England.</hi>
+            </p>
+            <p>And he Confederated to draw the subjects of <hi>Scotland</hi> from the King.</p>
+            <p>Let this man be judged according to his acts, cry the Commonalty of <hi>Jreland,</hi> also the Commons of <hi>England</hi> are of the same opinion. It is a common maxime in these times, for men to doe what they can, to enjoy greatnesse let goodnesse seeke entertainement where it will, <hi>Victa Ja<g ref="char:EOLhyphen"/>cet pietas, probitas laudatur &amp;c.</hi> Piety alas: it is hard to be found, honesty is Cōmended, but few give it acceptance. Jn what a miserable condition are all those, who strive to be great, and not good, was it not the case of Sir <hi>George Ratcliffe,</hi> who now for his liberty (I am perswaded) would exchange his dignity, for to whom much is given, much will be required, J have heard many, who having under<g ref="char:EOLhyphen"/>stood the crymes afore-mentioned, committed by this <hi>Iu<g ref="char:EOLhyphen"/>das</hi> (for so may J tearme him) ready to curse him, which is Jmpiety, for wee ought rather to pray for our Enemies. Neither was he alone the sole actor, in the forenamed Grie<g ref="char:EOLhyphen"/>vances, for he was assisted by Sir <hi>Richard Bolton</hi> Knight, Lord Chancellor of <hi>Ireland, Iohn</hi> Lord Bishop of <hi>Derry,</hi>
+               <pb facs="tcp:157092:4"/>and Sir <hi>Gerrard Lowther</hi> Knight, Lord chiefe Justice of his Majesties Court of <hi>Common Pleas,</hi> who are likewise ac<g ref="char:EOLhyphen"/>cused of the said Facts.</p>
+            <p>
+               <hi>Spencer</hi> and <hi>Gaveston,</hi> who have left their names monu<g ref="char:EOLhyphen"/>mentally odious, for the evill Councell they fed the Kings care with, yet did possibly advance their own friends, whilst these dart their envy; and Treason for a common Centery, equally touching the bounds of every superficies, for as concerning the valid estates; they have illegally over<g ref="char:EOLhyphen"/>throwne them.</p>
+            <p>J must confesse, that <hi>humanum est errare,</hi> and the Law al<g ref="char:EOLhyphen"/>lowes writs of errour, and arrests of judgement, but where there is <hi>crassa ignorantia,</hi> against their Oathes, and knowne Lawes of the Kingdome, nay where it is rather <hi>praemedita<g ref="char:EOLhyphen"/>ta malitia,</hi> an emulating policy, seeking onely to be glori<g ref="char:EOLhyphen"/>ous in a Nationall destruction, as if their safety were onely involved in our Ruine, there J must pity, but not excuse them, Innovations in Law, and so consequently in govern<g ref="char:EOLhyphen"/>ment, creepe in like Heresies in Religion, slowly and slily pleading, and in the end a sawcy and corrupt Legitimacy by uncontrouled prescription.</p>
+            <p>The <hi>Benjamites</hi> flung stones with their left hands, yet they would not miss<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a haires breadth; these extrajudiciall proceedings are flung with the left, I meane they are sini<g ref="char:EOLhyphen"/>sterous, and imprint their black and blew markes more certaine and more fatall, so that they may say; <hi>Que Regio in terris nostri non plena laboris,</hi> though these things be familier unto us, yet <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot but admire how this unpro<g ref="char:EOLhyphen"/>portionable body of Judicature, should swell up into such a vaste and ulcerous dimencion.</p>
+            <p>But yet that I may returne againe to this unworthy Knight Sir <hi>George</hi> not S<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>G<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orge,</hi> I cannot but admire his constan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:157092:4"/>put in him, to persecute both with rigour and wicked me<g ref="char:EOLhyphen"/>naces, his unjust and illegall commands, which (if plously and justly given, &amp; vertuously addicted) would have beene an eternall monument, of glory and happinesse, but the children of this world, are onely wise in their conceits, and where falsity and injustice is upholden, how can equity florish.</p>
+            <p>I am forced to cry out, <hi>O Ratcliffe, Ratcliffe,</hi> thou didst seeke rather to obey thy master but a Viceroy, or <hi>Debuty</hi> King, then the King himselfe, and by so doing, didst thou violate the lawes of that unhappy Kingdome, (by the and thy complices made so) for which now there is nothing left unto the, but shame and repentance.</p>
+            <p>what glasse hath this unhappy devided Kingdome, from his Majesties prefence and audience to contemplate the faire &amp; ravishing forme of his royall intentions in, but in the cleare and diaphanous Administration of his Justice, and what doe these Trayterous and Jllegall practises aime at, but in Affront to his Majestie, and discontent to his subjects, to multiply as by a magicke glasse, the royall di<g ref="char:EOLhyphen"/>spensation of his favours into the ugly &amp; deformed usage of their suppression of the liberties, devastation of estates, and deprivation of his Loyall Subjects, so that it may be said, <hi>Regali capiti cervicem consul equinam jungere sic vel<g ref="char:EOLhyphen"/>let varias{que} inducere plumas.</hi>
+            </p>
+            <p>Jn conclusion, all that J can say, is this, that hee which but lately (Sir <hi>George Ratcliffe</hi> J meane) lived so Tryum<g ref="char:EOLhyphen"/>phantly, and in Pompe, is now but <hi>Civiliter mortuus,</hi> for his answer speedily must be put into the Articles, now in the High Court of Parliament exhibited against him, that further proceedings may be expedited, as may be sutable to Justice, and the prefidents of Parliaments, to his Maje<g ref="char:EOLhyphen"/>sty appeare in his magnificent goodnesse, and indulgency to his people, that his people may bee ravished in their
+<pb facs="tcp:157092:5"/>their dutifull obedience and loyalty to his Majestie.</p>
+            <p>So shall this Parliament, live in records to Posterity, as the instrumentall reformers of these corrupted times, and that the Kingdome and Common-wealth, may pay an amiable Sacrifice in retribution and acknowledgement of his Majesties multiplied providence, for our preservation herein, to this J know, all but Trayters both to King and Countrey, will with an unanimous consent say <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>The Accusation and Impeachment of Sir <hi>GEORGE RATCLIFFE,</hi> by the Com<g ref="char:EOLhyphen"/>mons in this present <hi>Parliament</hi> assembled, charging with high Treason, and other mis<g ref="char:EOLhyphen"/>demeanours, as ensue.</head>
+            <p>
+               <hi>IMprimus,</hi> that he hath conspired with the Earle of <hi>Strafford,</hi> to bring into <hi>Ireland</hi> an <hi>Arbitrary Government,</hi> and to subvert the fundamentall Lawes, and did joyne with the Earle to bring in an Ar<g ref="char:EOLhyphen"/>my from <hi>Ireland,</hi> to subdue the subjects of <hi>England.</hi>
+            </p>
+            <p n="2">2. That he hath joyned with the Earle to use regall Power, and to deprive the subjects of their liberties and proprieties</p>
+            <p n="3">3. That he hath joyned with the Earle to take 80000 Pounds out of the <hi>Exchequer</hi> in <hi>Ireland,</hi> and bought Tobacco therewith, &amp; con<g ref="char:EOLhyphen"/>verted the same profits to their owne uses.</p>
+            <p n="4">4. That he hath Traiterously confederated with the Earle to coun<g ref="char:EOLhyphen"/>tenance Papists, and build Monasteryes, to alienate the affections of the <hi>Irish</hi> subjects from the subjection of <hi>England.</hi>
+            </p>
+            <p n="5">5. That he Trayterously confederated with the Earle, to draw the subjects of <hi>Scotland</hi> from the King.</p>
+            <p n="6">6. That to Preserve himselfe and the said Earle, hath laboured to subvert the liberties and priviledges of the Parliament in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
